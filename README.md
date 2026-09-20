@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="250" alt="Animação ilustrativa">
+  <img src="[https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif](https://chatgpt.com/backend-api/estuary/content?id=file_000000008834820ea90129a79d4b3ec6&ts=497207&p=fs&cid=1&sig=8d1f6af142b7112d5847875a3aff1fa74d13dc6ca35992b2145be2884b11df84&v=0)" width="250" alt="Animação ilustrativa">
 </p>
 
 ## 🌎 Sobre o projeto
