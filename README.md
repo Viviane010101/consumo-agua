@@ -1,64 +1,92 @@
+
 # 💧 Sistema de Consumo de Água 🌱
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/GitHub-Repositório-181717?style=for-the-badge&logo=github" alt="GitHub">
-  <img src="https://img.shields.io/badge/Meio_Ambiente-Sustentabilidade-2E8B57?style=for-the-badge" alt="Sustentabilidade">
+  <img src="https://img.shields.io/badge/Meio_Ambiente-Sustentabilidade-2E8B57?style=for-the-badge&logo=leaflet&logoColor=white" alt="Sustentabilidade">
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="250" alt="GIF ilustrativo">
+  <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="250" alt="Animação ilustrativa">
 </p>
 
 ## 🌎 Sobre o projeto
-Sistema desenvolvido em Python para classificar o consumo mensal de água de imóveis e incentivar o uso consciente desse recurso.
+
+Este projeto foi desenvolvido em Python como parte
+da atividade de Desenvolvimento de Sistemas.
+
+O objetivo é criar um sistema que classifica o consumo
+mensal de água de imóveis, contribuindo para uma
+campanha de conscientização ambiental.
 
 ## 🎯 Objetivos
+
 - 🏠 Identificar o tipo de imóvel.
 - 💧 Receber o consumo mensal em metros cúbicos (m³).
-- 📊 Classificar o consumo residencial.
-- 🌱 Incentivar a economia de água.
+- 📊 Classificar o consumo de água.
+- 🌱 Incentivar o uso consciente da água.
 
-## 🛠️ Tecnologias
-- 🐍 Python 3
+## 🛠️ Tecnologias utilizadas
+
+- 🐍 Python
 - 🐙 GitHub
 - 📝 Markdown
 
 ## ⚙️ Regras de classificação
 
-| Tipo de imóvel | Consumo | Resultado |
-|---|---:|---|
+| Tipo de imóvel | Consumo | Classificação |
+|---|---|---|
 | Comercial | Qualquer consumo válido | Tarifa comercial — plano corporativo |
-| Casa/apartamento | Menor que 10 m³ | Econômico |
-| Casa/apartamento | De 10 a 25 m³ | Moderado |
-| Casa/apartamento | Acima de 25 m³ | Excessivo |
+| Casa | Menor que 10 m³ | Consumo econômico |
+| Casa | De 10 a 25 m³ | Consumo moderado |
+| Casa | Acima de 25 m³ | Consumo excessivo |
+| Apartamento | Menor que 10 m³ | Consumo econômico |
+| Apartamento | De 10 a 25 m³ | Consumo moderado |
+| Apartamento | Acima de 25 m³ | Consumo excessivo |
 
 ## 🚀 Como executar
-1. Tenha o Python 3 instalado ou use um ambiente online, como o Google Colab.
-2. Abra o arquivo `app.py`.
-3. Execute o programa e responda às perguntas.
 
-No terminal, use:
+1. Instale o Python 3, caso ainda não tenha.
+2. Baixe ou clone este repositório.
+3. Abra a pasta do projeto.
+4. Execute o arquivo `app.py`:
+
 ```bash
 python app.py
 ```
 
-## 🧪 Exemplos para testar
-- `casa` com `8` m³ → consumo econômico.
-- `casa` com `15` m³ → consumo moderado.
-- `apartamento` com `30` m³ → consumo excessivo.
-- `comercial` com `20` m³ → mensagem de tarifa comercial.
+## 💻 Exemplo de utilização
 
-## 🌿 Dicas sustentáveis
-💙 Feche a torneira ao escovar os dentes.  
-💙 Tome banhos mais curtos.  
-💙 Verifique possíveis vazamentos.  
+```text
+💧 SISTEMA DE CONSUMO DE ÁGUA 💧
+
+🏠 Informe o tipo de imóvel: casa
+🚿 Informe o consumo mensal em m³: 8
+
+🏡 Imóvel residencial
+💧 Consumo econômico — excelente controle de água!
+
+🌎 Cada gota conta!
+💙 Economize água e ajude a preservar o planeta!
+```
+
+## 🌿 Dica sustentável
+
+💙 Feche a torneira ao escovar os dentes.
+💙 Tome banhos mais curtos.
+💙 Verifique possíveis vazamentos.
 💙 Reutilize água sempre que possível.
 
 ## 👩‍💻 Desenvolvido por
-**Substitua pelo seu nome**
 
-📚 Atividade acadêmica — Desenvolvimento de Sistemas.
+**Seu nome aqui**
+
+📚 Projeto acadêmico — Desenvolvimento de Sistemas.
 
 ---
+
+<p align="center">
+  🌎 <b>Pequenas atitudes fazem uma grande diferença!</b> 💧
+</p>
 <p align="center"><b>🌎 Cada gota conta! 💧</b></p>
