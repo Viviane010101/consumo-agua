@@ -2,9 +2,7 @@
 # 💧 Sistema de Consumo de Água 🌱
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/GitHub-Repositório-181717?style=for-the-badge&logo=github" alt="GitHub">
-  <img src="https://img.shields.io/badge/Meio_Ambiente-Sustentabilidade-2E8B57?style=for-the-badge&logo=leaflet&logoColor=white" alt="Sustentabilidade">
+  <img src="https://l1nq.com/CUlLllC">
 </p>
 
 <p align="center">
