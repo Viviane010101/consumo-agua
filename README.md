@@ -1,8 +1,9 @@
 
 # 💧 Sistema de Consumo de Água 🌱
 
+
 <p align="center">
-  <img src="https://l1nq.com/CUlLllC">
+  <img src="consumo-agua.png" alt="Imagem de conscientização sobre economia de água" width="700">
 </p>
 
 <p align="center">
