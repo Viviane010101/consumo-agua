@@ -1,12 +1,6 @@
 # 💧 Sistema de Consumo de Água 🌱
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Meio_Ambiente-Sustentabilidade-2E8B57?style=for-the-badge" alt="Sustentabilidade">
-</p>
-
-
-<p align="center">
   <img src="torneira.png" 
 </p>
 
@@ -20,7 +14,7 @@ Sistema desenvolvido em Python para classificar o consumo mensal de água de im�
 - 🌱 Incentivar a economia de água.
 
 ## 🛠️ Tecnologias
-- 🐍 Python 3
+- 🐍 Python 
 - 🐙 GitHub
 - 📝 Markdown
 
@@ -49,14 +43,12 @@ python app.py
 - `apartamento` com `30` m³ → consumo excessivo.
 - `comercial` com `20` m³ → mensagem de tarifa comercial.
 
-## 🌿 Dicas sustentáveis
+## 🌿 Dicas sustentáveis - Melhorias de resultados
 💙 Feche a torneira ao escovar os dentes.  
 💙 Tome banhos mais curtos.  
 💙 Verifique possíveis vazamentos.  
 💙 Reutilize água sempre que possível.
 
-## 👩‍💻 Desenvolvido por
-**Substitua pelo seu nome**
 
 📚 Atividade acadêmica — Desenvolvimento de Sistemas.
 
