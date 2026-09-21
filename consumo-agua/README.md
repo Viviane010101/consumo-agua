@@ -9,8 +9,6 @@
 
 <p align="center">
   <img src="torneira.png" 
-       alt="Torneira pingando água e folhagens"
-       width="100%">
 </p>
 
 ## 🌎 Sobre o projeto
