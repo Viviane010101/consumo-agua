@@ -27,21 +27,6 @@ Sistema desenvolvido em Python para classificar o consumo mensal de água de im�
 | Casa/apartamento | De 10 a 25 m³ | Moderado |
 | Casa/apartamento | Acima de 25 m³ | Excessivo |
 
-## 🚀 Como executar
-1. Tenha o Python 3 instalado ou use um ambiente online, como o Google Colab.
-2. Abra o arquivo `app.py`.
-3. Execute o programa e responda às perguntas.
-
-No terminal, use:
-```bash
-python app.py
-```
-
-## 🧪 Exemplos para testar
-- `casa` com `8` m³ → consumo econômico.
-- `casa` com `15` m³ → consumo moderado.
-- `apartamento` com `30` m³ → consumo excessivo.
-- `comercial` com `20` m³ → mensagem de tarifa comercial.
 
 ## 🌿 Dicas sustentáveis - Melhorias de resultados
 💙 Feche a torneira ao escovar os dentes.  
