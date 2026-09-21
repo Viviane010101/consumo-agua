@@ -35,7 +35,11 @@ Sistema desenvolvido em Python para classificar o consumo mensal de água de im�
 💙 Reutilize água sempre que possível.
 
 
-📚 Atividade acadêmica — Desenvolvimento de Sistemas.
+  ---
+
+### 👩‍💻 Projeto acadêmico
+
+Desenvolvido como atividade prática de **Desenvolvimento de Sistemas**.
 
 ---
 <p align="center"><b>🌎 Cada gota conta! 💧</b></p>
