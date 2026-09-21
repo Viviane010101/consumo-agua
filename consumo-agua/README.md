@@ -6,8 +6,11 @@
   <img src="https://img.shields.io/badge/Meio_Ambiente-Sustentabilidade-2E8B57?style=for-the-badge" alt="Sustentabilidade">
 </p>
 
+
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="250" alt="GIF ilustrativo">
+  <img src="torneira.png" 
+       alt="Torneira pingando água e folhagens"
+       width="100%">
 </p>
 
 ## 🌎 Sobre o projeto
